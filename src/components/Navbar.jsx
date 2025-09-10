@@ -6,7 +6,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-blue-950 text-white shadow w-full top-0 left-0 right-0">
+    <nav className="bg-blue-900 text-white shadow w-full top-0 left-0 right-0">
       <div className="flex items-center justify-between px-6 py-4">
         {/* Left Section: Profile */}
         <div className="flex items-center space-x-3">
