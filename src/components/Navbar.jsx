@@ -11,7 +11,7 @@ export default function Navbar() {
         {/* Left Section: Profile */}
         <div className="flex items-center space-x-3">
           <img
-            src="../src/assets/profile-img.jpg"
+            src="../src/assets/profile-img.png"
             alt="Profile"
             className="w-10 h-10 rounded-full border-2 border-white"
           />

@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="flex h-[300px] justify-center">
           <img
             className="border rounded-full"
-            src="../src/assets/profile-img.jpg"
+            src="../src/assets/profile-img.png"
           />
         </div>
         <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">

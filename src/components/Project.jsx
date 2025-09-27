@@ -20,7 +20,7 @@ export default function Projects() {
       buttonLink: "https://yum-eat-react-and-tailwind-css-proj.vercel.app/",
     },
     {
-      imageSrc: "../src/assets/project3.jpg",
+      imageSrc: "../src/assets/project3.png",
       title: "Personal Portfolio Website",
       description:
         "A fully responsive portfolio website showcasing my skills, projects, and contact information. Built with React and Tailwind CSS to provide a clean and modern look.",
